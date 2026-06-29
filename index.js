@@ -16,8 +16,8 @@ let visitorsCount = 0;
 let dashboardCount = 0;
 
 const emailData = {
-  user: "pnusds269@gmail.com",
-  pass: "dhsc vxaq mtaa oktd",
+  user: "karamalwaiedzoubi@gmail.com",
+  pass: "wrho ucgj lxjs dgke",
   // user: "saudiabsher1990@gmail.com",
   // pass: "qlkg nfnn xaeq fitz",
 };
